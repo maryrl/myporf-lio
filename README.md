@@ -1,2 +1,2 @@
-# myporf-lio
+# myporfólio
 Meu portfólio/currículo web
