@@ -2,6 +2,61 @@ body {
     background-color: rgb(159, 165, 171);
 }
 
-section id depoimentos{
-color: rgb(85, 221, 80);
-}
+
+        p {
+            font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+
+        .foto-perfil {
+            height: 100%;
+            max-width: auto;
+            border-radius: 50%;
+        }
+
+        .icones {
+            padding-left: 5px;
+        }
+
+        .titulosBrancos {
+            text-decoration: underline;
+            text-underline-position: under;
+            padding-bottom: 20px;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: white;
+        }
+
+        .titulosVerdes {
+            text-decoration: underline;
+            text-underline-position: under;
+            padding-bottom: 20px;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: #84908d
+        }
+
+        .paragrafoBrancos {
+            color: white !important;
+        }
+
+
+        .jumbotron {
+            margin-bottom: 0px;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        p {
+            color: black !important;
+        }
+
+        .corPrimaria {
+            background-color: #899794;
+        }
+
+        .itemMenu {
+            color: white;
+        }
+    
